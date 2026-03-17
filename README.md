@@ -6,4 +6,4 @@ Former math educator turned IT professional | M.S. in Computer Science
 ⚙️ Passionate about technology, problem-solving, and continuous learning  
 🎮 Enjoy strategy games, basketball, and the gym  
 
-📄 [View My Resume]([/Sampson Yang Resume.pdf](https://github.com/syang48/profile/blob/main/Sampson%20Yang%20Resume.pdf))
+📄 [View My Resume](./Sampson%20Yang%20Resume.pdf)
