@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sampson
 
-Former math educator turned IT professional | M.S. in Computer Science  
+IT Professional & STEM Educator | Open to New Opportunities in IT, Software, Cloud & Cyber Industry and Education
 
 💻 Exploring system administration, networking, and software integration  
 ⚙️ Passionate about technology, problem-solving, and continuous learning  
